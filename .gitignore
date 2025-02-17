@@ -166,3 +166,9 @@ cython_debug/
 *.pth 
 *.bin 
 *.db
+/08. Document Loaders/data
+/08. Document Loaders/data
+09. Vector Stores and Retrievals/health_supplements/index.faiss
+09. Vector Stores and Retrievals/health_supplements/index.pkl
+/.idea
+

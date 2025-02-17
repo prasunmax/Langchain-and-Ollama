@@ -1,58 +1,43 @@
 **Market News Report**
-======================
 
-### Overview
+**Date:** January 24, 2025
 
-The stock market has seen significant fluctuations in recent days, with major Indian and global companies making headlines for various reasons. In this report, we will delve into the latest developments and trends shaping the market.
+**Market Overview:**
+The Indian stock market has seen a decline in smallcaps, with stocks like Granules India and Shri Digvijay Cement falling 10-26% in the third week. The NSE-Nifty index closed at 17,439.35, down 0.34%, while the BSE-Sensex fell 0.45% to close at 6,846.39.
 
-### Top Gainers in India
+**Company News:**
 
-* **HDFC Bank**: The country's largest private sector bank has been on a bullish streak, with its shares rising 2.34% to ₹573.55.
-* **Kotak Mahindra Bank**: Another major player in the banking sector, Kotak's shares have gained 1.87% to ₹1,643.20.
-* **Tata Motors**: The country's largest passenger car manufacturer has seen its stock rise 5.03% to ₹247.40.
+* **Granules India:** Shares of Granules India fell over 3% after the company announced a 6% decline in its third-quarter net profit to Rs 118 crore.
+* **Shri Digvijay Cement:** Shri Digvijay Cement's shares plummeted over 5% as the company reported an 18% decline in its net profit for the third quarter.
+* **Tanla Platforms:** The company announced a rights issue of 7:2 ratio to raise Rs 100 crore from shareholders.
+* **Biocon:** Biocon will announce its Q3 earnings on January 25, and its shares are expected to be volatile due to market expectations.
 
-### Top Losers in India
+**Earnings and Dividend Announcements:**
 
-* **HDFC Life Insurance Company Limited**: Despite being a market leader in the insurance sector, HDFC Life's shares have declined 4.17% to ₹583.25.
-* **Bajaj Auto Limited**: The country's largest two-wheeler manufacturer has seen its stock fall 3.45% to ₹2,434.80.
+* **PowerGrid InvIT:** The company announced a dividend of Rs 0.15 per unit for the second quarter.
+* **Wipro:** Wipro will announce its Q3 earnings on January 25, and its shares are expected to be volatile due to market expectations.
+* **KEI Industries:** KEI Industries has announced a dividend of Rs 0.10 per share for the third quarter.
 
-### Global Market Watch
+**FII Activity:**
 
-The global market has been influenced by various factors, including interest rates and economic indicators. As of now:
+* Foreign institutional investors (FIIs) have been net sellers in the Indian stock market, with their selling activity reaching its highest level in three weeks.
+* FIIs sold shares worth over Rs 3,600 crore on January 23, leading to a decline in market indices.
 
-* **US Stocks**: The US stock market has seen a slight decline, with major players like Apple, Microsoft, and Amazon experiencing modest gains.
-* **European Markets**: European stocks have also witnessed some fluctuation, with top performers including Siemens and Volkswagen.
+**Currency and Commodities:**
 
-### Earnings Season
+* The rupee has fallen against major currencies, including the US dollar and euro, due to weak Indian economy data and rising inflation concerns.
+* Crude oil prices have risen by 1% to $77.50 per barrel, making it one of the top contributors to market volatility.
 
-The earnings season is in full swing, with several major companies announcing their quarterly results. Key highlights include:
+**Technical Analysis:**
+The NSE-Nifty index is currently trading in a range-bound trend, with support at 17,300 levels and resistance at 17,600 levels.
+The BSE-Sensex has also been trading within a narrow range, with support at 6,700 levels and resistance at 7,000 levels.
 
-* **HCLTech**: The IT services company has reported a 10% increase in its net profit to ₹1,431 crore.
-* **RIL**: The oil-to-telecom conglomerate has seen its stock rise 3.14% to ₹2,341.20.
+**Recommendations:**
 
-### Sectoral Performance
+* Investors should keep an eye on earnings announcements from Biocon, Wipro, and others for market volatility.
+* Smallcap stocks like Granules India and Shri Digvijay Cement are expected to be volatile due to weak earnings reports.
+* FIIs' net selling activity is a concern for the market, and investors should be cautious of further selling pressure.
 
-Various sectors have been performing differently:
-
-* **Real Estate**: The sector has witnessed a moderate increase in sales, with developers expecting Diwali to be a major boost.
-* **Financial Services**: The sector has been experiencing some volatility, with banks and insurance companies reporting varying levels of growth.
-
-### Commodities
-
-Commodity prices are also on the move:
-
-* **Gold**: Gold prices have risen 0.32% to ₹77,622 per 10 grams.
-* **Crude Oil**: Crude oil prices have fallen 1.15% to $78.20 per barrel.
-
-### Analyst Recommendations
-
-Wealth managers and analysts are recommending multi-asset funds amid volatility in equities:
-
-* **Angel One**: The brokerage firm has recommended investing in multi-asset funds for diversification.
-* **Macrotech**: The IT services company's shares have been recommended by analysts, citing its strong growth prospects.
-
-### Market Outlook
-
-The market is expected to remain volatile in the coming days, with investors keeping a watchful eye on economic indicators and global events. However, with the onset of Diwali, many are expecting a boost in sales and consumption, which could positively impact the market.
-
-Stay tuned for further updates as this story continues to unfold!
+**Market Outlook:**
+The Indian stock market is expected to remain range-bound in the near term, with support at 17,300 levels and resistance at 17,600 levels for the NSE-Nifty index.
+The BSE-Sensex will also continue to trade within its narrow range of 6,700-7,000 levels.
